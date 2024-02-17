@@ -1,0 +1,9 @@
+# Default ignored files
+.idea/
+/target/
+/.gitkeep
+*.xml
+logs/
+*.log
+/shelf/
+/workspace.xml
