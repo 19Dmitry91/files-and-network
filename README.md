@@ -8,6 +8,6 @@ Files and Network Utility — это Java-приложение для работ
 Для запуска приложения требуется JDK версии 11 или выше и Maven.
 
 ```bash
-git clone https://github.com/your-username/FilesAndNetwork
+git clone https://github.com/19Dmitry91/FilesAndNetwork
 cd FilesAndNetwork
 mvn package
